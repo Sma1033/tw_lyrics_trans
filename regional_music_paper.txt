@@ -1,0 +1,89 @@
+---------------------------------------------------ISMIR 2022---------------------------------------------------------
+033: Raga Classification From Vocal Performances Using Multimodal Analysis
+036: Three related corpora in Middle Byzantine music notation and a preliminary comparative analysis
+037: Playing Technique Detection by Fusing Note Onset Information in Guzheng Performance
+038: KDC: an open corpus for computational research of dastgāhi music
+040: In Search of Sañcāras: Tradition-informed Repeated Melodic Pattern Recognition in Carnatic Music
+041: Automatic Chinese National Pentatonic Modes Recognition Using Convolutional Neural Network
+042: Teach Yourself Georgian Folk Songs Dataset: A Annotated Corpus Of Traditional Vocal Polyphony
+043: Adapting meter tracking models to Latin American music
+044: Critiquing Task- versus Goal-oriented Approaches: A Case for Makam Recognition
+045: A Dataset for Greek Traditional and Folk Music: Lyra
+
+---------------------------------------------------ISMIR 2021---------------------------------------------------------
+001: Four-way Classification of Tabla Strokes with Models Adapted from Automatic Drum Transcription
+057: A case study of deep enculturation and sensorimotor synchronization to real music
+068: Tabla Gharana Recognition from Audio music recordings of Tabla Solo performances
+082: Computational analysis of melodic mode switching in raga performance
+
+----------------------------------------------------ISMIR 2020--------------------------------------------------------
+005: Modeling and Estimating Local Tempo: A Case Study on Chopin’s Mazurkas
+014: A corpus-based analysis of syncopated patterns in ragtime
+035: Structural Segmentation of Dhrupad Vocal Bandish Audio based on Tempo
+036: Moving in Time: Computational Analysis of Microtiming in Maracatu de Baque Solto
+058: Sesquialtera in the Colombian bambuco: Perception and estimation of beat and meter
+059: Joint analysis of mode and playing technique in Guqin performance with machine learning
+079: Mode classification and natural units in plainchant
+
+----------------------------------------------------ISMIR 2019--------------------------------------------------------
+025: Contributing to New Musicological Theories with Computational Methods: The Case of Centonization in Arab-Andalusian Music
+029: Tracking Beats and Microtiming in Afro-Latin American Music Using Conditional Random Fields and Deep Learning
+041: Detecting Stable Regions in Frequency Trajectories for Tonal Analysis of Traditional Georgian Vocal Music
+061: Microtiming Analysis in Traditional Shetland Fiddle Music
+076: SAMBASET: A Dataset of Historical Samba de Enredo Recordings for Computational Music Analysis
+
+----------------------------------------------------ISMIR 2018--------------------------------------------------------
+066: Precision of Sung Notes in Carnatic Music
+
+----------------------------------------------------ISMIR 2017--------------------------------------------------------
+003: Towards Computational Modeling of the Ungrammatical in a Raga Performance.
+004: A Collection of Music Scores for Corpus Based Jingju Singing Research.
+019: Quantized Melodic Contours in Indian Art Music Perception: Application to Transcription.
+023: Comparing Offertory Melodies of Five Medieval Christian Chant Traditions.
+028: A Statistical Analysis of Gamakas in Carnatic Music.
+030: Acoustic Features for Determining Goodness of Tabla Strokes.
+049: Understanding the Expressive Functions of Jingju Metrical Patterns Through Lyrics Text Mining.
+065: Identifying Raga Similarity Through Embeddings Learned from Compositions’ Notation.
+071: Onset Detection in Composition Items of Carnatic Music.
+
+----------------------------------------------------ISMIR 2016--------------------------------------------------------
+005: A Corpus of Annotated Irish Traditional Dance Music Recordings: Design and Benchmark Evaluations.
+031: Structural Segmentation and Visualization of Sitar and Sarod Concert Audio.
+072: Instrumental Idiom in the 16th Century: Embellishment Patterns in Arrangements of Vocal Music.
+073: The Sousta Corpus: Beat-Informed Automatic Transcription of Traditional Dance Tunes.
+083: Data-Driven Exploration of Melodic Structure in Hindustani Music.
+094: Mining Musical Traits of Social Functions in Native American Music.
+099: On the Use of Note Onsets for Improved Lyrics-To-Audio Alignment in Turkish Makam Music.
+104: Time-Delayed Melody Surfaces for Rāga Recognition.
+
+----------------------------------------------------ISMIR 2015--------------------------------------------------------
+012: Melodic Similarity in Traditional French-Canadian Instrumental Dance Tunes.
+014: Predicting Pairwise Pitch Contour Relations Based on Linguistic Tone Information in Beijing Opera Singing.
+052: FlaBase: Towards the Creation of a Flamenco Music Knowledge Base.
+053: Discovery of Syllabic Percussion Patterns in Tabla Solo Recordings.
+070: Comparison of the Singing Style of Two Jingju Schools.
+080: Hybrid Long- and Short-Term Models of Folk Melodies.
+083: Raga Verification in Carnatic Music Using Longest Common Segment Set.
+095: Searching Lyrical Phrases in A-Capella Turkish Makam Recordings.
+105: Automatic Transcription of Ornamented Irish Traditional Flute Music Using Hidden Markov Models.
+
+----------------------------------------------------ISMIR 2014--------------------------------------------------------
+003: Automated Detection of Single- and Multi-Note Ornaments in Irish Traditional Flute Playing.
+011: Computational Models for Perceived Melodic Similarity in A Cappella Flamenco Singing.
+051: Creating a Corpus of Jingju (Beijing Opera) Music and Possibilities for Melodic Analysis.
+056: Study of the Similarity between Linguistic Tones and Melodic Pitch Contours in Beijing Opera Singing.
+065: Discovering Typical Motifs of a Raga from One-Liners of Songs in Carnatic Music.
+070: Transcription and Recognition of Syllable based Percussion Patterns: The Case of Beijing Opera.
+
+----------------------------------------------------ISMIR 2013--------------------------------------------------------
+005: A Comparative Study Of Indian And Western Music Forms.
+006: Swara Histogram Based Structural Analysis And Identification Of Indian Classical Ragas.
+010: The Use Of Melodic Scales In Bollywood Music: An Empirical Study.
+026: Simultaneous Unsupervised Learning of Flamenco Metrical Structure, Hypermetrical Structure, and Multipart Structural Relations.
+028: A Computational Comparison of Theory And Practice of Scale Intonation in Byzantine Chant.
+029: Score Informed Tonic Identification for Makam Music of Turkey.
+041: Hierarchical Classification of Carnatic Music Forms.
+052: A Study of Cultural Dependence of Perceived Mood in Greek Music.
+058: Automatic Transcription of Turkish Makam Music.
+079: Inter and Intra Item Segmentation of Continuous Audio Recordings of Carnatic Music for Archival.
+081: Motif Spotting in an Alapana in Carnatic Music.
